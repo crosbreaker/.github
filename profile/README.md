@@ -1,5 +1,5 @@
 ## Hello!
-We are a Chromebook ChromeOS research group.
+We are a Chromebook/ChromeOS research group.
 
 ![banner image](./banner.jpg)
 
