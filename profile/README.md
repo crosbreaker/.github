@@ -1,7 +1,7 @@
 ## Hello!
 We are a Chromebook/ChromeOS research group.
 
-![banner image](./banner.jpg)
+![banner image](https://crosbreaker.dev/assets/banner.jpg)
 
 All content in this org is under the [GNU General Public License v3.0](./LICENSE)
 
