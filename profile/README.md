@@ -1,7 +1,7 @@
 ## Hello!
-We are a Chromebook/ChromeOS research group.
+We are a Chromebook/ChromeOS research group. We have created many projects such as baddieapple, sh1ttyexec, and badsh1mmer.
 
-![banner image](https://crosbreaker.dev/assets/banner.jpg)
+![banner](https://crosbreaker.dev/assets/banner.jpg)
 
 All content in this org is under the [GNU General Public License v3.0](./LICENSE)
 
